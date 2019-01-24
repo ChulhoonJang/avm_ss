@@ -1,0 +1,9 @@
+{
+  "num_classes": 4, 
+  "threshold":{
+    "threshold_0": 0.435294,
+    "threshold_1": 0.321569,
+    "threshold_2": 0.658824,
+    "threshold_3": 0.286275
+  }  
+}
